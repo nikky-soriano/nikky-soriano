@@ -1,6 +1,6 @@
 ## Hello World!
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/nikky-soriano/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=nikky-soriano&show_icons=true"/>](https://github.com/nikky-soriano/)
 
 <a href="https://www.linkedin.com/in/nikky-soriano/">
   <img align="left" alt="Nikky's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
